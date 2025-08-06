@@ -1,1 +1,1 @@
-# site_do_yuri.github.io
+# site-do-yuri.github.io
